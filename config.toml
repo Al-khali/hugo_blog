@@ -1,4 +1,4 @@
-baseURL = 'http://al-khali.github.io/hugo_blog/'
+baseURL = 'https://al-khali.github.io/hugo_blog/'
 languageCode = 'en-us'
 title = 'al-khali blog'
 theme = 'paper'
